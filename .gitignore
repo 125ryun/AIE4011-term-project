@@ -1,2 +1,9 @@
+# KuaiRec dataset zip
 KuaiRec.zip
-KuaiRec/KuaiRec 2.0
+
+# default files in KuaiRec dataset
+KuaiRec/data/
+KuaiRec/figs/
+KuaiRec/LICENSE
+KuaiRec/loaddata.py
+KuaiRec/Statistics_KuaiRec.ipynb
